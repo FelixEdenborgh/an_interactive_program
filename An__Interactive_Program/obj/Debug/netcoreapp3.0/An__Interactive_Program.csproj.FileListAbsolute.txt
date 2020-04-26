@@ -1,0 +1,11 @@
+C:\Users\Felix\Documents\C# Prodjects\An__Interactive_Program\bin\Debug\netcoreapp3.0\An__Interactive_Program.exe
+C:\Users\Felix\Documents\C# Prodjects\An__Interactive_Program\bin\Debug\netcoreapp3.0\An__Interactive_Program.deps.json
+C:\Users\Felix\Documents\C# Prodjects\An__Interactive_Program\bin\Debug\netcoreapp3.0\An__Interactive_Program.runtimeconfig.json
+C:\Users\Felix\Documents\C# Prodjects\An__Interactive_Program\bin\Debug\netcoreapp3.0\An__Interactive_Program.runtimeconfig.dev.json
+C:\Users\Felix\Documents\C# Prodjects\An__Interactive_Program\bin\Debug\netcoreapp3.0\An__Interactive_Program.dll
+C:\Users\Felix\Documents\C# Prodjects\An__Interactive_Program\bin\Debug\netcoreapp3.0\An__Interactive_Program.pdb
+C:\Users\Felix\Documents\C# Prodjects\An__Interactive_Program\obj\Debug\netcoreapp3.0\An__Interactive_Program.csprojAssemblyReference.cache
+C:\Users\Felix\Documents\C# Prodjects\An__Interactive_Program\obj\Debug\netcoreapp3.0\An__Interactive_Program.AssemblyInfoInputs.cache
+C:\Users\Felix\Documents\C# Prodjects\An__Interactive_Program\obj\Debug\netcoreapp3.0\An__Interactive_Program.AssemblyInfo.cs
+C:\Users\Felix\Documents\C# Prodjects\An__Interactive_Program\obj\Debug\netcoreapp3.0\An__Interactive_Program.dll
+C:\Users\Felix\Documents\C# Prodjects\An__Interactive_Program\obj\Debug\netcoreapp3.0\An__Interactive_Program.pdb
